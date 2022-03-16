@@ -1,6 +1,5 @@
 ﻿using System;
-
-using R5T.Magyar.IO;
+using System.IO;
 
 using R5T.T0051;
 
